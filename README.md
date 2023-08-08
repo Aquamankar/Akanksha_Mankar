@@ -27,11 +27,10 @@ I am an experienced Java Full-stack Developer with expertise in building end-to-
   <img src="https://img.shields.io/badge/Servlets-%23FFA726.svg?&style=for-the-badge&logo=servlet&logoColor=white" alt="Servlets" />
 </p>
                     
-                  ### Socials
-                  
-                  
-     <p align="left">
-                          
-                      <a href="https://www.github.com/Aquamankar" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a></p>
+                 ## Socials
+
+<p align="left">
+  <a href="https://www.github.com/Aquamankar" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
